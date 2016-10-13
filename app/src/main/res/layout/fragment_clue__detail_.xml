@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tlonapisu"
+    tools:context=".fragments.ClueDetailFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Miejsce"
+        android:id="@+id/tvplace"
+        android:layout_gravity="center"
+        android:layout_alignTop="@+id/tvtarget"
+        android:layout_toStartOf="@+id/btMap" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/poszlaka_nr"
+        android:id="@+id/tvTitle"
+        android:layout_gravity="right|center_vertical"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/cel"
+        android:id="@+id/tvtarget"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_below="@+id/tvTitle"
+        android:layout_toEndOf="@+id/btMap"
+        android:layout_marginTop="39dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pokaz na mapie"
+        android:id="@+id/btMap"
+        android:layout_below="@+id/tvtarget"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="54dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zbadaj poszlake"
+        android:id="@+id/btnSolveClue"
+        android:layout_below="@+id/btMap"
+        android:layout_centerHorizontal="true"
+        />
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/svfable"
+        android:layout_below="@+id/btMap"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="121dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="miej"
+        android:id="@+id/etplace"
+        android:layout_below="@+id/tvplace"
+        android:layout_toStartOf="@+id/tvTitle" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="ce"
+        android:id="@+id/ettarget"
+        android:layout_below="@+id/tvtarget"
+        android:layout_toEndOf="@+id/tvTitle" />
+
+</RelativeLayout>

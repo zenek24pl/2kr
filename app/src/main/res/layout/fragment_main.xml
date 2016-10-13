@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.MainActivityFragment"
+    tools:showIn="@layout/activity_main"
+    android:weightSum="10"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    android:animateLayoutChanges="true"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        >
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="230dp"
+        android:background="@drawable/loogoo"
+
+        />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="6"
+        android:orientation="vertical"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        >
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rozwiaż zagadkę"
+            android:id="@+id/btnStart"
+            android:background="@drawable/button"
+            android:layout_marginBottom="10dp"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Wycieczka"
+            android:id="@+id/btnTrip"
+            android:background="@drawable/button"
+            android:layout_marginBottom="10dp"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Zasady"
+            android:id="@+id/btnRules"
+            android:background="@drawable/button"
+            android:layout_marginBottom="10dp"/>
+    </LinearLayout>
+
+
+</LinearLayout>

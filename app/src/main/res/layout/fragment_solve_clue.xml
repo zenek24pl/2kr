@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="pl.noskilljustfun.dwakrokistad.fragments.SolveClueFragment"
+    android:background="@drawable/tlonapisu">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zbadaj poszlakę"
+        android:id="@+id/tvSolveClueTitle"
+        android:layout_centerHorizontal="true"
+        android:textSize="25dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvClueTitle"
+        android:layout_below="@id/tvSolveClueTitle"
+        android:text="Nazwa poszlaki"
+        android:textSize="16dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/svClueQuest"
+        android:layout_below="@id/tvClueTitle">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvClueQuestContent"
+            android:text="Tresc zagadki"/>
+    </ScrollView>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/etSolution"
+        android:hint="Wpisz tutaj rozwiazanie"
+        android:layout_below="@id/svClueQuest"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSolution"
+        android:layout_below="@+id/etSolution"
+        android:layout_centerHorizontal="true"
+        android:text="Rozwiaz zagadke"/>
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">2 kroki stąd</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_trip">tripMap</string>
+    <string name="poszlaki">POSZLAKI</string>
+    <string name="poszlaka2">POSZLAKA2</string>
+    <string name="tvPo">Poszlaki</string>
+    <string name="Poszlakka">Poszlakka</string>
+    <string-array name="cluelist">
+        <item>Poszlaka 1</item>
+        <item>Poszlaka 2</item>
+        <item>Poszlaka 3</item>
+        <item>Poszlaka 4</item>
+        <item>Poszlaka 5</item>
+        <item>Poszlaka 6</item>
+        <item>Poszlaka 7</item>
+        <item>Poszlaka 8</item>
+        <item>Poszlaka 9</item>
+
+    </string-array>
+    <string name="cel">Cel</string>
+    <string name="poszlaka_nr">POSZLAKA NR</string>
+
+</resources>

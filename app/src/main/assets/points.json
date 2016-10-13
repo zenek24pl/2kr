@@ -1,0 +1,194 @@
+	[
+		{
+			"id": "1",
+			"name": "Zabytkowa pompa przy dawnej kamienicy Alberta Zuckera",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7741667,
+			"positionY": 19.458055555555553
+		},
+		
+		{
+			"id": "2",
+			"name": "Twórcy Łodzi Przemysłowej",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7727778,
+			"positionY": 19.45583333333333
+		},
+		
+		{
+			"id": "3",
+			"name": "Obrazy światłem malowane",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7719444,
+			"positionY": 19.454166666666666
+		},
+		
+		{
+			"id": "4",
+			"name": "Wielka Synagoga",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7702778,
+			"positionY": 19.453888888888887
+		},
+		
+		{
+			"id": "5",
+			"name": "Fortepian Rubinsteina",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7680556,
+			"positionY": 19.456666666666667
+		},
+		
+		{
+			"id": "6",
+			"name": "Nieistniejąca, legendarna kawiarnia Honoratka",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7680556,
+			"positionY": 19.45722222222222
+		},
+		
+		{
+			"id": "7",
+			"name": "Popiersie Juliana Tuwima",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7683333,
+			"positionY": 19.458055555555553
+		},
+		
+		{
+			"id": "8",
+			"name": "Siedziba TVP Łódź",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7702778,
+			"positionY": 19.459722222222222
+		},
+		
+		{
+			"id": "9",
+			"name": "Filharmonia Łódzka im. Artura Rubinsteina",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7711111,
+			"positionY": 19.46
+		},
+		
+		{
+			"id": "10",
+			"name": "Łódzkie krasnale",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7733333,
+			"positionY": 19.461666666666666
+		},
+		
+		{
+			"id": "11",
+			"name": "Pomnik Jana Kilińskiego",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7683333,
+			"positionY": 19.46
+		},
+		
+		{
+			"id": "12",
+			"name": "Kochankowie z ulicy Kamiennej",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7738889,
+			"positionY": 19.45861111111111
+		},
+		
+		{
+			"id": "13",
+			"name": "Dom w którym mieszkał Władysław Reymont",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7744444,
+			"positionY": 19.458055555555553
+		},
+		
+		{
+			"id": "14",
+			"name": "Pasaż Róży",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7758333,
+			"positionY": 19.454444444444444
+		},
+		
+		{
+			"id": "15",
+			"name": "Figura Chrystusa z krzyżem",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7758333,
+			"positionY": 19.455
+		},
+		
+		{
+			"id": "16",
+			"name": "Łódzkie kanały",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7766667,
+			"positionY": 19.454722222222223
+		},
+		
+		{
+			"id": "17",
+			"name": "Pomnik Aleksandra Kamińskiego Kamyka",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7791667,
+			"positionY": 19.453055555555554
+		},
+		
+		{
+			"id": "18",
+			"name": "Pałac Izraela Poznańskiego",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7788889,
+			"positionY": 19.45111111111111
+		},
+		
+		{
+			"id": "19",
+			"name": "Manufaktura",
+			"description": "Wchodzac do domu",
+			"positionX": 51.780072,
+			"positionY":  19.448058
+		},
+		
+		{
+			"id": "20",
+			"name": "Park Staromiejski - Śledzia",
+			"description": "Wchodzac do domu",
+			"positionX": 51.78,
+			"positionY": 19.452777777777776
+		},
+		
+		{
+			"id": "21",
+			"name": "Zegar słoneczny",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7808333,
+			"positionY": 19.454166666666666
+		},
+		
+		{
+			"id": "22",
+			"name": "Pomnik Chaima Natana Widawskiego",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7813889,
+			"positionY": 19.45638888888889
+		},
+		
+		{
+			"id": "23",
+			"name": "Stare Miasto Łódź",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7816667,
+			"positionY": 19.454444444444444
+		},
+		
+		{
+			"id": "24",
+			"name": "Pałac Alfreda Biedermanna",
+			"description": "Wchodzac do domu",
+			"positionX": 51.7802778,
+			"positionY": 19.463055555555556
+		}
+
+	]	

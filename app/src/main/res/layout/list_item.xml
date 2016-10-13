@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/icon2"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginEnd="15dp"
+        android:layout_marginStart="12dp"
+        android:src="@drawable/yes"
+        >
+    </ImageView>
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@+id/label"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/icon2"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:layout_marginBottom="2dp"
+
+
+
+        >
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Siema tak to bedzie wygladac Bujaka"
+        android:layout_below="@+id/label"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/icon2"
+        android:id="@+id/label2"
+        android:ellipsize="end"
+        android:singleLine="true"
+
+
+
+
+        />
+
+
+</RelativeLayout>

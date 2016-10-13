@@ -1,0 +1,60 @@
+
+	[
+		{
+			"id": "1",
+			"name": "Zabytkowa pompa przy dawnej kamienicy Alberta Zuckera",
+			"place": "ul.Zeromskiego",
+			"target":"Odnalezc arke",
+			"positionX": 51.7741667,
+			"positionY": 19.458055555555553,
+			"status": 1
+		},
+
+		{
+			"id": "2",
+			"name": "Twórcy Łodzi Przemysłowej",
+			"place":"ul.Kozy",
+			"target":"Poznac Joanna",
+			"positionX": 51.7727778,
+			"positionY": 19.45583333333333,
+			"status": 0
+		}, {
+			"id": "3",
+			"name": "Obrazy światłem malowane",
+			"place":"ul.Łazienkowska",
+			"target":"Spotkanie z siostrami",
+			"positionX": 51.7719444,
+			"positionY": 19.454166666666666,
+			"status": 0
+		}, {
+			"id": "4",
+			"name": "Wielka Synagoga",
+			"place":"ul.Grahama",
+			"target":"Powstrzymac atak",
+			"positionX": 51.7702778,
+			"positionY": 19.453888888888887,
+			"status": 0
+		}, {
+			"id": "5",
+			"name": "Fortepian Rubinsteina",
+			"place": "ul.Fajowa",
+			"target":"Przeniknac do towarzystwa",
+			"positionX": 51.7680556,
+			"positionY": 19.456666666666667,
+			"status": 0
+		}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	]
+
+
+
+
+

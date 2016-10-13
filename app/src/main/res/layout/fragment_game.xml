@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    >
+
+    <TextView
+
+        android:text="@string/tvPo"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:id="@+id/tvPo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ee1111"
+        android:textSize="@dimen/abc_text_size_headline_material"
+        android:textStyle="italic"
+        android:textAlignment="center"
+        android:gravity="center|top"
+        android:enabled="false"
+        android:focusable="false">
+    </TextView>
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="444dp"
+
+        android:layout_marginTop="66dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+    </ListView>
+
+</RelativeLayout>

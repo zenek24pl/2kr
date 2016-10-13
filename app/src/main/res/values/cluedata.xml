@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clue_data_list">
+        <item>Poszlaka 1</item>
+        <item>Poszlaka 2</item>
+        <item>Poszlaka 3</item>
+        <item>Poszlaka 4</item>
+        <item>Poszlaka 5</item>
+        <item>Poszlaka 6</item>
+        <item>Poszlaka 7</item>
+    </string-array>
+</resources>
